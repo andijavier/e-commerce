@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Exceed Pod Joytech",
+        "image_url": "https://www.lepetitvapoteur.com/24924-large_default/exceed-grip-pod-joyetech.jpg",
+        "price": 182000,
+        "stock": 12,
+        "category": "Pod"
+    },
+    {
+        "name": "Caliburn Pod",
+        "image_url": "https://vapepakistan.pk/wp-content/uploads/2019/10/uwell-caliburn-box.jpg",
+        "price": 200000,
+        "stock": 50,
+        "category": "Pod"
+    },
+    {
+        "name": "Drag S Pod Mod",
+        "image_url": "https://www.svapem.com/4933-home_default/voopoo-drag-s-60w-pod-mod-kit.jpg",
+        "price": 335000,
+        "stock": 50,
+        "category": "Pod"
+    },
+    {
+        "name": "HexOhm Powder Coat",
+        "image_url": "https://cdn11.bigcommerce.com/s-ba05lt/images/stencil/1280x1280/products/1463/5183/box-hexohm-v3-par-craving-vapor__34247.1476990412.jpg?c=2?imbypass=on",
+        "price": 3000000,
+        "stock": 15,
+        "category": "Mod"
+    },
+    {
+        "name": "Iphone 12",
+        "image_url": "https://images.news18.com/ibnlive/uploads/2020/10/1602622490_apple-iphone-12-pro-iphone-12-pro-max.jpg",
+        "price": 16499000,
+        "stock": 15,
+        "category": "Hp"
+    }
+]
